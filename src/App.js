@@ -17,9 +17,8 @@ function App() {
 				/>
 			</div>
 			<main className='px-10 text-white bg-black'>
-				<div className='flex justify-between'>
+				<div>
 					<h2 className='font-bold text-2xl py-10'>Pocket Organizer</h2>
-					<h2 className='font-bold text-2xl py-10'>Welcome, Danny</h2>
 				</div>
 				<hr></hr>
 				<div className='flex justify-between h-full'>
